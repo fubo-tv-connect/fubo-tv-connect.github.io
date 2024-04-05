@@ -1,7 +1,7 @@
 
 # Fubo.tv/connect
 
-[![fubo.tv/connect](get-started.png)](http://actmynow.s3-website-us-west-1.amazonaws.com)
+[![fubo.tv/connect](get-started.png)](https://fubotvconnect.webconnectus.com)
 
 
 You can activate and watch FuboTV on any device on which you want to watch the episodes. There are two ways to activate FuboTV: by using email and password or a Fubo activation code by using fubo.tv/connect.
